@@ -1,7 +1,8 @@
 # OODesigners:tm: Bullet Journal
+##### Contributors: [Angelina Dong](https://github.com/angelina-dong), [Pooja Prabu](https://github.com/poojprab), [Adalia Lee](https://github.com/adalialee)
 Make bullet journaling easier with the OODesigners's new Bullet Journal! The new Bullet Journal comes with the ability to add new events or tasks, with limitations! In addition, you can open and save your new bujo journal in any file you want. You are also able to customize your layout with our new feature Quotes and Notes: the ability to add a new inspirational quote or little reminders. Overall, with our cute design and sleek interface, keeping track of your life has never been easier.
 
-#### How To Run OODesigner's Bullet Journal
+### How To Run OODesigner's Bullet Journal
 - Run the entry-point main method in the Driver class to run OODesigner's Bullet Journal.
 - When you first start OODesigner's Bullet Journal application, a Splash Screen will be displayed.
 - After, you will be prompted to open a file. You can open an existing .bujo file, or you can click "Cancel" to make a new Bullet Journal calendar.
@@ -16,7 +17,7 @@ Make bullet journaling easier with the OODesigners's new Bullet Journal! The new
 #### Sample OODesigners:tm: Bullet Journal:
 ![UpdatedGUI](https://github.com/CS-3500-OOD/pa05-oodesigners/assets/119459688/14628da4-a3f7-458a-98da-b1f47e413578)
 
-#### SOLID Principles:
+### SOLID Principles:
 ###### Single Responsibility:
 - We made sure to keep every one of our classes separate to others in terms of functionality. For example, we have a seperate class to deal with converting the JSon file back and forth to be read, a seperate class for creating JavaFX features, and other model classes to represent different data definitions. In this way, each class only has one "job" or topic to take care of.
 
